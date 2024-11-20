@@ -1,4 +1,4 @@
-# robot_arm
+# Robot_Arm
 Perceiving Objects and Classifying Robot Arm
 ![Robot_arm_header](https://github.com/user-attachments/assets/9486657d-0a6e-4705-a6c5-1ee6b925ac6a)
 
