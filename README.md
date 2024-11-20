@@ -1,8 +1,8 @@
 # robot_arm
 Perceiving Objects and Classifying Robot Arm
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:a82da8&text=Robot%20Arm&reversal=true&textBg=false" />
-<!DOCTYPE html>
-<html lang="en">
+
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
