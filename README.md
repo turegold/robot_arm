@@ -2,6 +2,7 @@
 Perceiving Objects and Classifying Robot Arm
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4B0082,100:002E5D8&text=Robot%20Arm&reversal=true&textBg=false" />
 
+![robot_arm](https://github.com/user-attachments/assets/2f6d63c8-efc3-4ca5-87b8-e4f65e2d4b8f)
 <!DOCTYPE html>
 <html lang="en">
 <head>
