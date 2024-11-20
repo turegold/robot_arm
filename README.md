@@ -1,8 +1,9 @@
 # robot_arm
 Perceiving Objects and Classifying Robot Arm
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:a82da8&text=Robot%20Arm&reversal=true&textBg=false" />
 
 
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,6 +20,8 @@ Perceiving Objects and Classifying Robot Arm
     <div style="height: 100vh; display: flex; align-items: center; justify-content: center;">
         <h1 style="color: white; font-family: Arial, sans-serif;">Robot Arm Gradient Background Preview</h1>
     </div>
+</body>
+</html>
 </body>
 </html>
 <h1>팀원</h1>
